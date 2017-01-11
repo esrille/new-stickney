@@ -2,6 +2,8 @@
 
 実験中の New Stickney かな配列のリポジトリです。Windows で New Stickney かな配列を使用するための AutoHotKey スクリプトを提供しています。
 
+![New Stickney かな配列 第8案](doc/new-stickney8.png)
+
 ## 概要
 
 New Stickney 配列は現行のJISかな配列の元となったバーナム・スティックニーさんが考案されたかな配列の、
