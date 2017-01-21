@@ -38,9 +38,20 @@ New Stickney かな配列は、物理的なキー配置としては英語圏に�
 
 まず[AutoHotkey](http://ahkscript.org/) 1.1.* (従来 AutoHotkey_L と呼ばれていたもの)をインストールしてください。続いて、ahk/NewStickney.ahk スクリプトを実行すると、New Stickney かな配列を Windows で使用できるようになります。
 
-* AutoHotKey スクリプトは、Windows10とMicrosoft IMEの組み合わせで動作を確認しています。
-* 英語キーボードでのIMEのオンとオフは、それぞれ右ALTと左ALTに割り当てています。また右ALTはかな入力中は空白(変換)キーとして使えるようにしてあります。
+* スクリプトは、Windows10とMicrosoft IMEの組み合わせで動作を確認しています。
 * IMEの制御には、[Autohotkey IME制御用 関数群 (コピペ/組込用)(IME.ahk)](http://www6.atwiki.jp/eamat/)を利用させていただいています。
+
+### NewStickney.ahk スクリプト
+
+* NewStickney.ahk スクリプトは英語(ANSI)キーボード用です。
+* IMEのオンとオフは、それぞれ右ALTと左ALTに割り当てています。また右ALTは日本語入力中は空白(変換)キーとして使えるようにしてあります。
+
+### x6004.ahk スクリプト
+
+* ahk/NewStickney.ahk スクリプトの代わりに ahk/x6004.ahk を実行すると、新JIS配列(センター，前置・連続シフト方式)を使用できるようになります。
+* x6004.ahkはJISキーボード用です。
+* 日本語入力中は、変換キーが空白キーになります。
+* Shift-0で_(アンダースコア)を入力できます。
 
 ## リンク
 
