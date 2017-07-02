@@ -2,6 +2,8 @@
 
 実験中の New Stickney かな配列のリポジトリです。Windows で New Stickney かな配列を使用するための AutoHotKey スクリプトを提供しています。
 
+※ New Stickney かな配列の最新版は、あたらしい日本語入力IME「[日本語 漢字置換インプット メソッド for IBus](https://github.com/esrille/ibus-replace-with-kanji)」をつかって実験をすすめています。最新版の配列の[説明書](https://esrille.github.io/ibus-replace-with-kanji/layouts.html)もあわせて参照してください。
+
 ![New Stickney かな配列 第8案](doc/new-stickney8.png)
 
 ## 概要
