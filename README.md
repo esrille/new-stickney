@@ -56,6 +56,13 @@ New Stickneyかな配列は、物理的なキー配置としては英語圏に�
 * 日本語入力中は、変換キーが空白キーになります。
 * Shift-0で_(アンダースコア)を入力できます。
 
+## これまでの案
+
+* [第11案](https://esrille.github.io/new-stickney/new-stickney11.html) (最新)
+* [第10案](https://esrille.github.io/new-stickney/new-stickney10.html)
+* [第9案](https://esrille.github.io/new-stickney/new-stickney9.html)
+* [第8案](https://esrille.github.io/new-stickney/new-stickney8.html)
+
 ## リンク
 
 * [New Stickneyの開発状況](https://twitter.com/hashtag/newstickney?f=tweets&vertical=default&src=hash)
