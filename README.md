@@ -58,7 +58,8 @@ New Stickneyかな配列は、物理的なキー配置としては英語圏に�
 
 ## これまでの案
 
-* [第11案](https://esrille.github.io/new-stickney/new-stickney11.html) (最新)
+* [第12案](https://esrille.github.io/new-stickney/new-stickney12.html) (最新)
+* [第11案](https://esrille.github.io/new-stickney/new-stickney11.html)
 * [第10案](https://esrille.github.io/new-stickney/new-stickney10.html)
 * [第9案](https://esrille.github.io/new-stickney/new-stickney9.html)
 * [第8案](https://esrille.github.io/new-stickney/new-stickney8.html)
