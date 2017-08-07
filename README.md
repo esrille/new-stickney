@@ -4,7 +4,7 @@ WindowsでNew Stickneyかな配列を使用するためのAutoHotKeyスクリプ
 
 ※ 現在、New Stickneyかな配列の研究開発は、あたらしい日本語入力IME「[日本語 漢字置換インプット メソッド for IBus](https://github.com/esrille/ibus-replace-with-kanji)」をつかってすすめています。FedoraやUbuntuなどIBusに対応したOSを利用されている場合は、日本語 漢字置換インプット メソッド for IBusをつかって、最新のNew Stickneyかな配列を利用できます。
 
-![New Stickney かな配列 第11案](docs/new-stickney.png)
+![New Stickney かな配列 第12案](docs/new-stickney.png)
 
 ## 概要
 
