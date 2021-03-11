@@ -36,7 +36,7 @@ New Stickney配列は現行のJISかな配列のもととなったバーナム�
 
 New Stickneyかな配列は、物理的なキー配置としては英語圏にかぎらず今日世界中でひろくつかわれている英語キーボードのキー配置での利用を想定しています。
 
-※ 最新の小学生むけの[説明書](https://esrille.github.io/ibus-replace-with-kanji/layouts.html)もあわせて参照してください。
+※ 最新の小学生むけの[説明書](https://esrille.github.io/ibus-hiragana/layouts.html)もあわせて参照してください。
 
 ## AutoHotKey スクリプトの使用方法
 
